@@ -4,4 +4,4 @@
 
 Second edit. Commit link: https://github.com/gmarkkula/TestRepo/commit/3d6a87df4215d9675ffba5d6528013f276c67999
 
-Third edit.
+Third edit. Commit link: https://github.com/gmarkkula/TestRepo/commit/6241394a35399d898771849e0817d343feac735b
